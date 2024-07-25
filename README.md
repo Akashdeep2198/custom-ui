@@ -19,7 +19,7 @@ AWS CLI configured with access credentials
 
 # Clone the repository:
 
-git clone https://github.com/yourusername/react-amplify-cognito-custom-ui.git
+git clone
 cd react-amplify-cognito-custom-ui
 
 # Install dependencies
